@@ -1,6 +1,6 @@
 # SMS x Discord Client
 
-This is required alongside the [server](https://github.com/EmotionalLove/SMS_x_Discord). 
+This is required alongside the [server](https://github.com/EmotionalLove/SMS_x_Discord_Web). 
 
 # Usage
 
