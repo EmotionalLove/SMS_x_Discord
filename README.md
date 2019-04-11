@@ -15,3 +15,7 @@ sendgridToken: # SendGrid API Key
 discordToken: # Discord Auth Token
 channelToListen: # ID of the private dm channel you want to be communicating with
 ```
+
+# SendGrid setup
+
+You'll need to set up a Inbound parse webhook for the server part of SMS x Discord, and direct it to the POST url as described in that readme.
